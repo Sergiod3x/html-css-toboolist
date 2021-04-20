@@ -76,6 +76,36 @@ header{
 }
 
 ul{
-    color: color: rgb(78, 78, 78);
+    color: rgb(78, 78, 78);
     list-style:none;
+}
+
+.tag{
+    width: 30;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    font-size:xx-small;
+    vertical-align:middle;
+    
+}
+
+.editorial{ 
+    background-color: cornflowerblue;
+}
+
+.q1{
+    background-color: rgb(101, 31, 151);
+}
+
+.recruiting{
+    background-color: rgb(21, 160, 153);
+}
+
+.mobile{
+    background-color:rgb(228, 104, 59);
+}
+
+.sales{
+    background-color: cornflowerblue;
 }
